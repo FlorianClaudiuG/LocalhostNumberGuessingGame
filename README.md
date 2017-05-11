@@ -8,3 +8,5 @@ connections as well. After a series of handshakes (that were part of the assignm
 thread. 
 
 The admin client uses a separate port when connecting. It is able to request the list of current players on the server.
+
+A flowchart detailing the process was also part of the submission.
